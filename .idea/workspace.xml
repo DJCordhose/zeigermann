@@ -7,11 +7,11 @@
     </list>
     <ignored path="Zeigermann.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355403979394" ignored="false" />
+    <file path="/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355409554975" ignored="false" />
     <file path="/demo.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354360309088" ignored="false" />
     <file path="$PROJECT_DIR$/../TypeScript-Demo/js/demo.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354360383665" ignored="false" />
     <file path="$PROJECT_DIR$/../TypeScript-Demo/js/demo.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354360340559" ignored="false" />
-    <file path="/Dummy.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355248646915" ignored="false" />
+    <file path="/Dummy.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355404305658" ignored="false" />
     <file path="$USER_HOME$/Develop/WebstormProjects/Wemmsball/server/proxy.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354369324443" ignored="false" />
     <file path="$USER_HOME$/Develop/WebstormProjects/zeitapi/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354459996021" ignored="false" />
     <file path="$USER_HOME$/Develop/WebstormProjects/zeitapi/devel.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354371634791" ignored="false" />
@@ -27,13 +27,23 @@
     <file path="$PROJECT_DIR$/../Wemmsball/game.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354455772625" ignored="false" />
     <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/step0.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355402967949" ignored="false" />
     <file path="/step0.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355239029627" ignored="false" />
-    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355247894323" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406095963" ignored="false" />
     <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/partner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355239279892" ignored="false" />
     <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/kind.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355239272108" ignored="false" />
-    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/step1.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355403013703" ignored="false" />
-    <file path="/step1.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355403012024" ignored="false" />
-    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/impressum.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355403044630" ignored="false" />
-    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/disclaimer.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355403050193" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/step1.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406168208" ignored="false" />
+    <file path="/step1.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406169502" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/impressum.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355408333631" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/disclaimer.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406651832" ignored="false" />
+    <file path="/impressum.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355409652000" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/js/ui.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406460707" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/menu.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355407295606" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/devel.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406102644" ignored="false" />
+    <file path="/disclaimer.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406552800" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/berechnung-trennung.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406743743" ignored="false" />
+    <file path="/berechnung-trennung.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406739073" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/berechnung-kind.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406751393" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/berechnung-beides.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406759744" ignored="false" />
+    <file path="/menu.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355407295606" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +60,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="16" selection-start="2377" selection-end="2377" vertical-scroll-proportion="0.6313498">
+            <state line="74" column="109" selection-start="3583" selection-end="3583" vertical-scroll-proportion="-19.333334">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="impressum.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/impressum.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="57" selection-start="731" selection-end="731" vertical-scroll-proportion="0.4059829">
               <folding />
             </state>
           </provider>
@@ -88,6 +107,7 @@
       <list>
         <option value="$PROJECT_DIR$/redirect/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/impressum.html" />
       </list>
     </option>
   </component>
@@ -290,7 +310,11 @@
       <created>1355236024389</created>
       <updated>1355236024389</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Direct link to oose seminar">
+      <created>1355404309306</created>
+      <updated>1355404309306</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -355,7 +379,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adde jQuery as known technology" />
+    <option name="LAST_COMMIT_MESSAGE" value="Direct link to oose seminar" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -369,6 +393,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Adde jQuery as known technology" />
+    <MESSAGE value="Direct link to oose seminar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -476,7 +501,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="16" selection-start="2377" selection-end="2377" vertical-scroll-proportion="0.6313498">
+        <state line="74" column="109" selection-start="3583" selection-end="3583" vertical-scroll-proportion="-19.333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/impressum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="57" selection-start="731" selection-end="731" vertical-scroll-proportion="0.4059829">
           <folding />
         </state>
       </provider>
