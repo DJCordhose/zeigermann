@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" name="Default" comment="Added imprint">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    <list default="true" id="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/impressum.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Zeigermann.iws" />
@@ -12,7 +11,7 @@
     <file path="/demo.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354360309088" ignored="false" />
     <file path="$PROJECT_DIR$/../TypeScript-Demo/js/demo.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354360383665" ignored="false" />
     <file path="$PROJECT_DIR$/../TypeScript-Demo/js/demo.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354360340559" ignored="false" />
-    <file path="/Dummy.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355410522365" ignored="false" />
+    <file path="/Dummy.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355410544458" ignored="false" />
     <file path="$USER_HOME$/Develop/WebstormProjects/Wemmsball/server/proxy.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354369324443" ignored="false" />
     <file path="$USER_HOME$/Develop/WebstormProjects/zeitapi/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354459996021" ignored="false" />
     <file path="$USER_HOME$/Develop/WebstormProjects/zeitapi/devel.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354371634791" ignored="false" />
@@ -61,19 +60,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="15" selection-start="3240" selection-end="3240" vertical-scroll-proportion="0.45573294">
+            <state line="64" column="15" selection-start="3240" selection-end="3240" vertical-scroll-proportion="-13.083333">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="impressum.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="impressum.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/impressum.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="57" selection-start="731" selection-end="731" vertical-scroll-proportion="-11.875">
+            <state line="19" column="57" selection-start="731" selection-end="731" vertical-scroll-proportion="0.4059829">
               <folding />
             </state>
           </provider>
@@ -272,6 +271,13 @@
       <option name="testName" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
@@ -319,7 +325,11 @@
       <created>1355409670910</created>
       <updated>1355409670910</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added favicon">
+      <created>1355410546660</created>
+      <updated>1355410546660</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -384,7 +394,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added imprint" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added favicon" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -400,6 +410,7 @@
     <MESSAGE value="Adde jQuery as known technology" />
     <MESSAGE value="Direct link to oose seminar" />
     <MESSAGE value="Added imprint" />
+    <MESSAGE value="Added favicon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -505,16 +516,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/impressum.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="57" selection-start="731" selection-end="731" vertical-scroll-proportion="-11.875">
+        <state line="64" column="15" selection-start="3240" selection-end="3240" vertical-scroll-proportion="-13.083333">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/impressum.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="15" selection-start="3240" selection-end="3240" vertical-scroll-proportion="0.45573294">
+        <state line="19" column="57" selection-start="731" selection-end="731" vertical-scroll-proportion="0.4059829">
           <folding />
         </state>
       </provider>
