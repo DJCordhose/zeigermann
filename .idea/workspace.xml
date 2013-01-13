@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/impressum.html" />
+    <list default="true" id="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" name="Default" comment="Added imprint file">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/olli.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Zeigermann.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355409788013" ignored="false" />
+    <file path="/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358111790720" ignored="false" />
     <file path="/demo.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354360309088" ignored="false" />
     <file path="$PROJECT_DIR$/../TypeScript-Demo/js/demo.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354360383665" ignored="false" />
     <file path="$PROJECT_DIR$/../TypeScript-Demo/js/demo.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354360340559" ignored="false" />
-    <file path="/Dummy.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355410544458" ignored="false" />
+    <file path="/Dummy.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358110848065" ignored="false" />
     <file path="$USER_HOME$/Develop/WebstormProjects/Wemmsball/server/proxy.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354369324443" ignored="false" />
     <file path="$USER_HOME$/Develop/WebstormProjects/zeitapi/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354459996021" ignored="false" />
     <file path="$USER_HOME$/Develop/WebstormProjects/zeitapi/devel.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354371634791" ignored="false" />
     <file path="$USER_HOME$/Develop/WebstormProjects/zeitapi/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354463289277" ignored="false" />
-    <file path="/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354461776537" ignored="false" />
+    <file path="/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357574775761" ignored="false" />
     <file path="$USER_HOME$/Develop/WebstormProjects/zeitapi/views/select.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354443822414" ignored="false" />
     <file path="$USER_HOME$/Develop/WebstormProjects/zeitapi/views/articles.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354459996021" ignored="false" />
     <file path="/articles.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354449330646" ignored="false" />
@@ -27,23 +28,90 @@
     <file path="$PROJECT_DIR$/../Wemmsball/game.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354455772625" ignored="false" />
     <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/step0.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355402967949" ignored="false" />
     <file path="/step0.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355239029627" ignored="false" />
-    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406095963" ignored="false" />
-    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/partner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355239279892" ignored="false" />
-    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/kind.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355239272108" ignored="false" />
-    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/step1.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406168208" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357405992586" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/partner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593930796" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/kind.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593930796" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/step1.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593930795" ignored="false" />
     <file path="/step1.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406169502" ignored="false" />
-    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/impressum.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355408333631" ignored="false" />
-    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/disclaimer.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406651832" ignored="false" />
-    <file path="/impressum.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355409652000" ignored="false" />
-    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/js/ui.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406460707" ignored="false" />
-    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/menu.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355407295606" ignored="false" />
-    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/devel.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406102644" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/impressum.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356774352743" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/disclaimer.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593930796" ignored="false" />
+    <file path="/impressum.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355415446738" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/js/ui.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357405992835" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/menu.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356774352743" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/devel.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356774352743" ignored="false" />
     <file path="/disclaimer.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406552800" ignored="false" />
-    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/berechnung-trennung.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406743743" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/berechnung-trennung.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593930796" ignored="false" />
     <file path="/berechnung-trennung.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406739073" ignored="false" />
-    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/berechnung-kind.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406751393" ignored="false" />
-    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/berechnung-beides.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406759744" ignored="false" />
-    <file path="/menu.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355407295606" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/berechnung-kind.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593930796" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/berechnung-beides.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593930796" ignored="false" />
+    <file path="/menu.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355498373624" ignored="false" />
+    <file path="/partner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357556332403" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/js/aha.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355440438173" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/min/js/compile.sh" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356774352743" ignored="false" />
+    <file path="/compile.sh" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355481426365" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/min/js/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357405992586" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/min/js/unterhalt_mod.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357405992835" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/privacy.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356774352743" ignored="false" />
+    <file path="/privacy.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355501050821" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355946502098" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/helloworld.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/helloworld2.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="/helloworld2.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355947888895" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/helloworld.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/sandbox.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356774353935" ignored="false" />
+    <file path="/sandbox.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355948095010" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/closure.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356774353935" ignored="false" />
+    <file path="$USER_HOME$/Develop/todomvc.angularjs/js/directives/todoFocus.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593933391" ignored="false" />
+    <file path="$USER_HOME$/Develop/todomvc.angularjs/js/controllers/todoCtrl.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593933391" ignored="false" />
+    <file path="$USER_HOME$/Develop/todomvc.angularjs/js/services/todoStorage.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593933391" ignored="false" />
+    <file path="$USER_HOME$/Develop/todomvc.angularjs/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593933391" ignored="false" />
+    <file path="$USER_HOME$/Develop/todomvc.angularjs/js/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593933391" ignored="false" />
+    <file path="$USER_HOME$/Develop/todomvc.angularjs/js/directives/todoBlur.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593933391" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/angular.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="/angular.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356787239360" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356778636191" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/localCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356779633253" ignored="false" />
+    <file path="/localCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356782862770" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/SpecRunner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="/SpecRunner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356780436724" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/jasmine-1.3.1/example/SpecRunner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356780380969" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/spec/localCalculatorSpec.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="/localCalculatorSpec.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356782768753" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/src/localCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/src/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357762629094" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/src/gwtCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357230076044" ignored="false" />
+    <file path="/gwtCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356892473739" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/WEB-INF/web.xml" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356889209384" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/src/restClient.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356890467476" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/src/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357762629094" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/src/restCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356891819306" ignored="false" />
+    <file path="$USER_HOME$/Google Drive/jax/JavaScript-Day/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593937113" ignored="false" />
+    <file path="$USER_HOME$/Google Drive/GWT-Workshop/reveal.js Presentation/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593936088" ignored="false" />
+    <file path="$USER_HOME$/Google Drive/jax/JavaScript-Day/helloworld.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593937113" ignored="false" />
+    <file path="$USER_HOME$/Google Drive/jax/JavaScript-Day/helloworld2.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593937112" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/playground.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357405992586" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/sandbox.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357405992586" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/js/unterhalt_mod.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357405992835" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/SpecRunner_Logik.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357405993089" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/src/restCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/src/gwtCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/src/localCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593934931" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/spec/localCalculatorSpec.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593934931" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/step2.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357556032495" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/trennung.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593930796" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/beides.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593930796" ignored="false" />
+    <file path="/trennung.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357556165138" ignored="false" />
+    <file path="$USER_HOME$/Training/JavaScript/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357598708096" ignored="false" />
+    <file path="$USER_HOME$/Training/JavaScript/reveal.js/plugin/notes-server/notes.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357589421063" ignored="false" />
+    <file path="$USER_HOME$/Training/JavaScript/reveal.js/plugin/notes/notes.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357589421063" ignored="false" />
+    <file path="$USER_HOME$/Training/JavaScript/HelloWorld/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357595541755" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/anmerkung.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593930796" ignored="false" />
+    <file path="$USER_HOME$/Google Drive/jax/JavaScript-Day/grunt.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593937112" ignored="false" />
+    <file path="$USER_HOME$/Google Drive/jax/JavaScript-Day/package.json" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593937113" ignored="false" />
+    <file path="$USER_HOME$/Develop/reveal.js/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593938213" ignored="false" />
+    <file path="$USER_HOME$/Training/JavaScript/Trainer/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357598438829" ignored="false" />
+    <file path="$USER_HOME$/Training/JavaScript/101/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357597785973" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,19 +128,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="15" selection-start="3240" selection-end="3240" vertical-scroll-proportion="-13.083333">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="impressum.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/impressum.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="57" selection-start="731" selection-end="731" vertical-scroll-proportion="0.4059829">
+            <state line="33" column="121" selection-start="1694" selection-end="1694" vertical-scroll-proportion="0.2589183">
               <folding />
             </state>
           </provider>
@@ -81,7 +140,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/redirect/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="14" selection-start="112" selection-end="112" vertical-scroll-proportion="-1.875">
+            <state line="3" column="14" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -105,16 +164,16 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/redirect/index.html" />
         <option value="$PROJECT_DIR$/impressum.html" />
+        <option value="$PROJECT_DIR$/redirect/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="874" />
+    <option name="width" value="1920" />
+    <option name="height" value="1054" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -142,6 +201,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -160,93 +220,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Zeigermann" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Zeigermann" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="redirect" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Zeigermann" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Zeigermann" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Zeigermann" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Zeigermann" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Zeigermann" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Zeigermann" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="reference.settings.ide.settings.spelling" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Trainings/de_neu" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="PublishConfig" serverName="zeigermann.eu" serverId="5230dd3c-8012-4eb1-b5d4-761361731ffd">
+  <component name="PublishConfig" serverName="floreysoft.com" serverId="8a683f63-0be4-4be9-9971-9700c34b9714">
     <servers>
-      <server id="5230dd3c-8012-4eb1-b5d4-761361731ffd">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </server>
       <server id="8a683f63-0be4-4be9-9971-9700c34b9714">
         <serverdata>
           <mappings>
@@ -262,7 +252,16 @@
       <recent name="$PROJECT_DIR$/bootstrap/css" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugSession" factoryName="Remote" singleton="true" temporary="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" value="http://zeigermann.eu/index.html" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -273,7 +272,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
       <JSRemoteDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSRemoteDebuggerConfigurationSettings>
       <method />
@@ -285,9 +284,17 @@
       </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
-    <list size="0" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$USER_HOME$/Trainings/de_neu" Dictionaries="0" />
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
@@ -329,28 +336,34 @@
       <created>1355410546660</created>
       <updated>1355410546660</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added imprint file">
+      <created>1355410589044</created>
+      <updated>1355410589044</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
+    <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28192252" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3009605" sideWeight="0.60079575" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39920425" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -394,7 +407,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added imprint file" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -411,6 +424,7 @@
     <MESSAGE value="Direct link to oose seminar" />
     <MESSAGE value="Added imprint" />
     <MESSAGE value="Added favicon" />
+    <MESSAGE value="Added imprint file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -511,21 +525,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/redirect/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="14" selection-start="112" selection-end="112" vertical-scroll-proportion="-1.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="15" selection-start="3240" selection-end="3240" vertical-scroll-proportion="-13.083333">
+        <state line="3" column="14" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/impressum.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="57" selection-start="731" selection-end="731" vertical-scroll-proportion="0.4059829">
+        <state line="19" column="57" selection-start="731" selection-end="731" vertical-scroll-proportion="0.32312927">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="121" selection-start="1694" selection-end="1694" vertical-scroll-proportion="0.2589183">
           <folding />
         </state>
       </provider>
