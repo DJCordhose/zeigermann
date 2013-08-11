@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAX_Speakerbutton.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Zeigermann.iml" afterPath="$PROJECT_DIR$/.idea/Zeigermann.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="Zeigermann.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373099411394" ignored="false" />
+    <file path="/demo.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354360309088" ignored="false" />
+    <file path="$PROJECT_DIR$/../TypeScript-Demo/js/demo.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354360383665" ignored="false" />
+    <file path="$PROJECT_DIR$/../TypeScript-Demo/js/demo.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354360340559" ignored="false" />
+    <file path="/Dummy.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373904795081" ignored="false" />
+    <file path="$USER_HOME$/Develop/WebstormProjects/Wemmsball/server/proxy.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354369324443" ignored="false" />
+    <file path="$USER_HOME$/Develop/WebstormProjects/zeitapi/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354459996021" ignored="false" />
+    <file path="$USER_HOME$/Develop/WebstormProjects/zeitapi/devel.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354371634791" ignored="false" />
+    <file path="$USER_HOME$/Develop/WebstormProjects/zeitapi/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354463289277" ignored="false" />
+    <file path="/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365265886707" ignored="false" />
+    <file path="$USER_HOME$/Develop/WebstormProjects/zeitapi/views/select.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354443822414" ignored="false" />
+    <file path="$USER_HOME$/Develop/WebstormProjects/zeitapi/views/articles.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354459996021" ignored="false" />
+    <file path="/articles.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354449330646" ignored="false" />
+    <file path="/select.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354442324540" ignored="false" />
+    <file path="$USER_HOME$/Develop/WebstormProjects/zeitapi/views/details.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354460202647" ignored="false" />
+    <file path="/details.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354460097325" ignored="false" />
+    <file path="$PROJECT_DIR$/../Wemmsball/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354455661470" ignored="false" />
+    <file path="$PROJECT_DIR$/../Wemmsball/game.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1354455772625" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/step0.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373812695081" ignored="false" />
+    <file path="/step0.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373812695081" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1370936975429" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/partner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371381101128" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/kind.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371381101128" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/step1.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371048669769" ignored="false" />
+    <file path="/step1.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406169502" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/impressum.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356774352743" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/disclaimer.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593930796" ignored="false" />
+    <file path="/impressum.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355415446738" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/js/ui.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371383560187" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/menu.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356774352743" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/devel.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371376626061" ignored="false" />
+    <file path="/disclaimer.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355406552800" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/berechnung-trennung.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371381469197" ignored="false" />
+    <file path="/berechnung-trennung.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371246271258" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/berechnung-kind.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371383129284" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/berechnung-beides.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371383426726" ignored="false" />
+    <file path="/menu.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355498373624" ignored="false" />
+    <file path="/partner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357556332403" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/js/aha.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355440438173" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/min/js/compile.sh" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371376638355" ignored="false" />
+    <file path="/compile.sh" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371112565849" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/min/js/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373812514396" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/min/js/unterhalt_mod.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371377378231" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/privacy.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356774352743" ignored="false" />
+    <file path="/privacy.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355501050821" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355946502098" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/helloworld.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/helloworld2.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="/helloworld2.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1355947888895" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/helloworld.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/sandbox.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356774353935" ignored="false" />
+    <file path="/sandbox.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359286338631" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/closure.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356774353935" ignored="false" />
+    <file path="$USER_HOME$/Develop/todomvc.angularjs/js/directives/todoFocus.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593933391" ignored="false" />
+    <file path="$USER_HOME$/Develop/todomvc.angularjs/js/controllers/todoCtrl.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593933391" ignored="false" />
+    <file path="$USER_HOME$/Develop/todomvc.angularjs/js/services/todoStorage.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593933391" ignored="false" />
+    <file path="$USER_HOME$/Develop/todomvc.angularjs/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593933391" ignored="false" />
+    <file path="$USER_HOME$/Develop/todomvc.angularjs/js/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593933391" ignored="false" />
+    <file path="$USER_HOME$/Develop/todomvc.angularjs/js/directives/todoBlur.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593933391" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/angular.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="/angular.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356787239360" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356778636191" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/localCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356779633253" ignored="false" />
+    <file path="/localCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356782862770" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/SpecRunner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="/SpecRunner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371109513464" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/jasmine-1.3.1/example/SpecRunner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356780380969" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/spec/localCalculatorSpec.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="/localCalculatorSpec.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356782768753" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/src/localCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/src/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357762629094" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/src/gwtCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357230076044" ignored="false" />
+    <file path="/gwtCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356892473739" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/WEB-INF/web.xml" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364201135456" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/src/restClient.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1356890467476" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/src/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357762629094" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/src/restCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364201135456" ignored="false" />
+    <file path="$USER_HOME$/Google Drive/jax/JavaScript-Day/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593937113" ignored="false" />
+    <file path="$USER_HOME$/Google Drive/GWT-Workshop/reveal.js Presentation/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593936088" ignored="false" />
+    <file path="$USER_HOME$/Google Drive/jax/JavaScript-Day/helloworld.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593937113" ignored="false" />
+    <file path="$USER_HOME$/Google Drive/jax/JavaScript-Day/helloworld2.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593937112" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/playground.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357405992586" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/sandbox.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357405992586" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/js/unterhalt_mod.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371280357020" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/SpecRunner_Logik.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371374294868" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/src/restCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sandbox/src/gwtCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593932207" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/src/localCalculator.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364201135456" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/spec/localCalculatorSpec.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593934931" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/step2.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371246961392" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/trennung.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371048777908" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/beides.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371048770822" ignored="false" />
+    <file path="/trennung.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357556165138" ignored="false" />
+    <file path="$USER_HOME$/Training/JavaScript/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357598708096" ignored="false" />
+    <file path="$USER_HOME$/Training/JavaScript/reveal.js/plugin/notes-server/notes.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357589421063" ignored="false" />
+    <file path="$USER_HOME$/Training/JavaScript/reveal.js/plugin/notes/notes.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357589421063" ignored="false" />
+    <file path="$USER_HOME$/Training/JavaScript/HelloWorld/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357595541755" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/anmerkung.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593930796" ignored="false" />
+    <file path="$USER_HOME$/Google Drive/jax/JavaScript-Day/grunt.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593937112" ignored="false" />
+    <file path="$USER_HOME$/Google Drive/jax/JavaScript-Day/package.json" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593937113" ignored="false" />
+    <file path="$USER_HOME$/Develop/reveal.js/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357593938213" ignored="false" />
+    <file path="$USER_HOME$/Training/JavaScript/Trainer/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357598438829" ignored="false" />
+    <file path="$USER_HOME$/Training/JavaScript/101/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1357597785973" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/HelloWorld/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358115194679" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364030985281" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Trainer/plan.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364033666930" ignored="false" />
+    <file path="/plan.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364149080935" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/UI/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358505747535" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/RPC/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1363031938781" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/structure/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358163111647" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Test/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358163924209" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/i18n/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1363037144873" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/UIBinder/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358351966501" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Compiler/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358164403444" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/DeferredBinding/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358164542526" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/History/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1360400213943" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Formatting/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358272849169" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/ClientBundle/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358506246527" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/JS/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358166036728" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Cell/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358166514335" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/packages/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358193708055" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.floreysoft/Ultradox Help/war/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358856298750" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.floreysoft/Ultradox Help/war/user.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358936058570" ignored="false" />
+    <file path="/user.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358250334789" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.floreysoft/Ultradox Help/war/bootstrap/css/bootstrap.css" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358856298750" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.floreysoft/Ultradox Help/war/bootstrap/css/bootstrap.min.css" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358342325914" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.floreysoft/Ultradox Help/war/bootstrap/application.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358271487989" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Trainer/todo.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1363087665810" ignored="false" />
+    <file path="/todo.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364221691122" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/mortgage.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358808167880" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/Trainer/todo.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364151719576" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/vanilla/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358542510598" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/vanilla/aha.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358535394492" ignored="false" />
+    <file path="/aha.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358535382744" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/Trainer/plan.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364149080935" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/pureHtml/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358535822649" ignored="false" />
+    <file path="/unterhalt_mod.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358534473723" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/vanilla-decoupled/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358539598580" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/vanilla-decoupled/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358542975084" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/vanilla-decoupled/ui.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358543436847" ignored="false" />
+    <file path="/ui.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371383523731" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358544632334" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery/ui.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358547770557" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery/spec/SpecRunner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358548351340" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery/spec/spec.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358548386723" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/vanilla-decoupled-remote/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358633689036" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/vanilla-decoupled-remote/ui.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358631746599" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-remote/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358674872030" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-remote/ui.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358677298935" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-module-class/spec/spec.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358675666384" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-module-class/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358676730005" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-class/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358675435790" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-class/ui.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358675473059" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-module-class/ui.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358675630989" ignored="false" />
+    <file path="/spec.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371109703432" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-package/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358678546549" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-package/spec/SpecRunner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358677876317" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-package/js/ui/main.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358678480833" ignored="false" />
+    <file path="/main.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358681344711" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-package/js/main.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358681344711" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-package/js/ui/ui.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358678640444" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-package/js/ui/ctrl.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358681856841" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-module-class/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358679224711" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-module-class/js/main.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358679398357" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-module-class/js/ui/ctrl.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358679655148" ignored="false" />
+    <file path="/ctrl.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358681855138" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-module-class/js/spec/SpecRunner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358679873333" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-package/js/logic/mortgageModule.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358681793463" ignored="false" />
+    <file path="/mortgageModule.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359217973017" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-requireJS/js/spec/spec.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358688577917" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/jQuery-requireJS/js/spec/SpecRunner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358688641260" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/bootstrap/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358697037011" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/SpecRunner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358697529059" ignored="false" />
+    <file path="/mortgage.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358808166777" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/sampleApp.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358807034114" ignored="false" />
+    <file path="/sampleApp.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358794359241" ignored="false" />
+    <file path="$USER_HOME$/Trainings/KoSSE Talk/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359282941081" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/exercise/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359110674676" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/101/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359108189791" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/HelloWorld/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359070326068" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364148693601" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/src/ctrl.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364201135456" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.floreysoft/Ultradox Help/war/reference.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358958658453" ignored="false" />
+    <file path="/reference.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358958638854" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.floreysoft/Ultradox Help/war/todo.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1358948789102" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/301/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359321789721" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/Links/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359204571544" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359041204800" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/sandbox/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359041272854" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/sandbox/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359310959429" ignored="false" />
+    <file path="/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371749744072" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/.idea/workspace.xml" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359217878532" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/201/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359317650814" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/grundlagen/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359107539122" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/grundlagen2/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359108546429" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/code/9 jQuery-requireJS/js/logic/mortgageModule.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359318383184" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Live Hack/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359283033390" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Live Hack/oose.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359285737864" ignored="false" />
+    <file path="/oose.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359285659252" ignored="false" />
+    <file path="$USER_HOME$/Trainings/Abendvortrag oose/plan.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359293606467" ignored="false" />
+    <file path="$USER_HOME$/Trainings/Abendvortrag oose/code/sandbox.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359287543204" ignored="false" />
+    <file path="$USER_HOME$/Trainings/Abendvortrag oose/code/spec/SpecRunner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359286916690" ignored="false" />
+    <file path="$USER_HOME$/Trainings/Abendvortrag oose/code/spec/spec.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359286540884" ignored="false" />
+    <file path="$USER_HOME$/Trainings/Abendvortrag oose/code/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359286958981" ignored="false" />
+    <file path="$USER_HOME$/Trainings/Abendvortrag oose/code/spec/sandbox-spec.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359287018542" ignored="false" />
+    <file path="/sandbox-spec.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359287003091" ignored="false" />
+    <file path="$USER_HOME$/Trainings/Abendvortrag oose/code/customers.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359307040541" ignored="false" />
+    <file path="/customers.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359307040153" ignored="false" />
+    <file path="/customers.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359304440053" ignored="false" />
+    <file path="$USER_HOME$/Trainings/Abendvortrag oose/code/customers.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359310375668" ignored="false" />
+    <file path="$USER_HOME$/Trainings/Abendvortrag oose/code/persons.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359293193648" ignored="false" />
+    <file path="/persons.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359293190697" ignored="false" />
+    <file path="$USER_HOME$/Trainings/Abendvortrag oose/code/persons.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359293280632" ignored="false" />
+    <file path="$USER_HOME$/Trainings/Abendvortrag oose/code/customers-ctrl.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359305405815" ignored="false" />
+    <file path="$USER_HOME$/Trainings/Abendvortrag oose/code/customers-ts.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359310395749" ignored="false" />
+    <file path="$USER_HOME$/Trainings/Abendvortrag oose/code/customers-ts.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359310397216" ignored="false" />
+    <file path="/customers-ts.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359310392948" ignored="false" />
+    <file path="/customers-ts.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359306977638" ignored="false" />
+    <file path="$USER_HOME$/Trainings/Abendvortrag oose/code/customers-ts.js.map" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359310397216" ignored="false" />
+    <file path="$USER_HOME$/Trainings/Abendvortrag oose/code/angular/angular.min.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1359310375668" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flot-Sandbox/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1360621755230" ignored="false" />
+    <file path="$PROJECT_DIR$/../Flot-Sandbox/flot-0.7/jquery.flot.pie.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1360609742280" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/.idea/workspace.xml" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364034331953" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Trainer/themen.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1363008194492" ignored="false" />
+    <file path="/themen.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1363008149604" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Trainer/themen-spring-hibernate.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1363085159430" ignored="false" />
+    <file path="/themen-spring-hibernate.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1363085159430" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Trainer/themen-integration.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364033922053" ignored="false" />
+    <file path="/themen-integration.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364033922053" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Trainer/themen-MVP.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1363011683171" ignored="false" />
+    <file path="/themen-MVP.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1363011682068" ignored="false" />
+    <file path="/themen-large-scale.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364033837838" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Trainer/themen-large-scale.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364034092029" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Trainer/ablauf-kn.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364034090481" ignored="false" />
+    <file path="/ablauf-kn.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364034071538" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Trainer/themen-zusatz.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364033954892" ignored="false" />
+    <file path="/themen-zusatz.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364033954892" ignored="false" />
+    <file path="/ext-js.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365772798067" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript Training/ext-js.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364148718312" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/WEB-INF/appengine-web.xml" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364201135456" ignored="false" />
+    <file path="$USER_HOME$/Develop/workspace.gwt/Mortgage Calculator/war/WEB-INF/classes/eu/zeigermann/mortgage/Mortgage_Calculator.gwt.xml" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364201135456" ignored="false" />
+    <file path="$USER_HOME$/New Trainings/JavaScript Training/Trainer/todo.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365772890120" ignored="false" />
+    <file path="$USER_HOME$/New Trainings/JavaScript Training/code-ext/hello-world/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364217624644" ignored="false" />
+    <file path="$USER_HOME$/New Trainings/JavaScript Training/code-ext/sandbox/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364218142951" ignored="false" />
+    <file path="$USER_HOME$/New Trainings/JavaScript Training/code-ext/sandbox/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1364221515526" ignored="false" />
+    <file path="$USER_HOME$/Develop/extjsProjects/MortgageApp/app/model/Mortgage.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365260477418" ignored="false" />
+    <file path="$USER_HOME$/Develop/extjsProjects/MortgageApp/app-test/specs/mvc.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365260723889" ignored="false" />
+    <file path="$USER_HOME$/New Trainings/JavaScript Training/ext-js.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365772816535" ignored="false" />
+    <file path="$USER_HOME$/Develop/extjsProjects/MortgageApp/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365265782866" ignored="false" />
+    <file path="$USER_HOME$/Develop/extjsProjects/MortgageApp/run-tests.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365265790007" ignored="false" />
+    <file path="/run-tests.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365265370042" ignored="false" />
+    <file path="$USER_HOME$/Develop/extjsProjects/MortgageApp/app/store/Mortgage.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365265716381" ignored="false" />
+    <file path="/Mortgage.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365265716932" ignored="false" />
+    <file path="$USER_HOME$/Develop/extjsProjects/MortgageApp/app/controller/Main.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365265708879" ignored="false" />
+    <file path="$USER_HOME$/Develop/extjsProjects/MortgageApp/app/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365265899487" ignored="false" />
+    <file path="/Main.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365265644535" ignored="false" />
+    <file path="$USER_HOME$/Develop/extjsProjects/MortgageApp/app-test.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365265963798" ignored="false" />
+    <file path="$USER_HOME$/New Trainings/JavaScript Training/.idea/workspace.xml" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365850204568" ignored="false" />
+    <file path="$USER_HOME$/New Trainings/JavaScript Training/HelloWorld/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365753732322" ignored="false" />
+    <file path="$USER_HOME$/New Trainings/JavaScript Training/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365772747471" ignored="false" />
+    <file path="$USER_HOME$/New Trainings/JavaScript Training/Trainer/plan-ext.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365783506557" ignored="false" />
+    <file path="/plan-ext.txt" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365783506197" ignored="false" />
+    <file path="$USER_HOME$/New Trainings/JavaScript Training/code/sandbox/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365776842431" ignored="false" />
+    <file path="$USER_HOME$/New Trainings/JavaScript Training/101/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365782125645" ignored="false" />
+    <file path="/fragment.js2" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365776825920" ignored="false" />
+    <file path="$USER_HOME$/New Trainings/JavaScript Training/code/grundlagen2/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365781865164" ignored="false" />
+    <file path="$USER_HOME$/New Trainings/JavaScript Training/exercise/exercise-ext.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365926808718" ignored="false" />
+    <file path="$PROJECT_DIR$/../extjssandbox/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365927164045" ignored="false" />
+    <file path="$PROJECT_DIR$/../extjssandbox/app.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1365927301384" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-training-modules/HelloWorld/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1369916447871" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/partials/header.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371048620136" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/js/unterhalt_mod.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1370935287466" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/js/test/rechner_spec.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373812514396" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-fuer-java-entwickler/kap6/exceptions/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371025457078" ignored="false" />
+    <file path="/header.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371048587549" ignored="false" />
+    <file path="$USER_HOME$/Develop/DokChessJS/Iter1/elemente.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371201246054" ignored="false" />
+    <file path="/elemente.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371107474932" ignored="false" />
+    <file path="$USER_HOME$/Develop/DokChessJS/tests/spec/SpecRunner.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371109514674" ignored="false" />
+    <file path="$USER_HOME$/Develop/DokChessJS/tests/spec/spec.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371109774651" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-fuer-java-entwickler/kap4/enum/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371111661593" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/js/logic.js.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371112095878" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/js/logic.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373812514396" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/js/logic.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373904779099" ignored="false" />
+    <file path="/logic.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373812299596" ignored="false" />
+    <file path="$USER_HOME$/Develop/unterhaltsrechner-appengine/war/js/logic.js.map" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371375709233" ignored="false" />
+    <file path="/devel.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371112515838" ignored="false" />
+    <file path="/SpecRunner_Logik.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371112592822" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-fuer-java-entwickler/kap4/vereinfacht/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371650043170" ignored="false" />
+    <file path="/berechnung-beides.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371383426726" ignored="false" />
+    <file path="/rechner_spec.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371376307819" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-fuer-java-entwickler/kap3/hoisting/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371632445524" ignored="false" />
+    <file path="$USER_HOME$/Trainings/typescript-hh-js/techniken-tools/code/7-typescript/app.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371384867354" ignored="false" />
+    <file path="$USER_HOME$/Trainings/typescript-hh-js/typescript.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373801499491" ignored="false" />
+    <file path="/typescript.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373801497982" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-fuer-java-entwickler/kap2/hello-world/hello.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371716530448" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-fuer-java-entwickler/kap2/number/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371622557839" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-fuer-java-entwickler/kap2/eq/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371623484677" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-fuer-java-entwickler/kap2/if/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371626934850" ignored="false" />
+    <file path="/hello.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371716517748" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-fuer-java-entwickler/kap4/prototype/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371717733075" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-fuer-java-entwickler/kap4/vererbung/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371722160100" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-fuer-java-entwickler/kap6/jasmine-test/spec/spec.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371726596839" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavascriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371727956305" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-fuer-java-entwickler/kap6/oo-mixins/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371729880526" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-fuer-java-entwickler/kap6/oo-polymorph/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371730825589" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-fuer-java-entwickler/kap5/module-import/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371734695126" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-fuer-java-entwickler/kap3/scopes/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1371749744072" ignored="false" />
+    <file path="$PROJECT_DIR$/../typescript-sandbox/refactoring.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373530570308" ignored="false" />
+    <file path="/refactoring.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373530564011" ignored="false" />
+    <file path="$PROJECT_DIR$/../typescript-sandbox/refactoring.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373530573892" ignored="false" />
+    <file path="$PROJECT_DIR$/../typescript-sandbox/sandbox.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373101583850" ignored="false" />
+    <file path="$PROJECT_DIR$/../typescript-sandbox/sandbox.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373904779099" ignored="false" />
+    <file path="$USER_HOME$/Trainings/typescript-hh-js/style.css" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373115976274" ignored="false" />
+    <file path="/style.css" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373115904218" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-training-modules/crash/basic.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373445645283" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-training-modules/crash/advanced.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373445645284" ignored="false" />
+    <file path="$USER_HOME$/Trainings/JavaScript/javascript-training-modules/Links/index.html" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373445645305" ignored="false" />
+    <file path="$PROJECT_DIR$/../typescript-sandbox/canvas.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373793238750" ignored="false" />
+    <file path="$PROJECT_DIR$/../typescript-sandbox/canvas.js" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373793241382" ignored="false" />
+    <file path="/canvas.ts" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373793235038" ignored="false" />
+    <file path="/README.md" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373800602552" ignored="false" />
+    <file path="$USER_HOME$/Trainings/typescript-hh-js/README.md" changelist="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" time="1373800602552" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Zeigermann" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="52" column="71" selection-start="2624" selection-end="2624" vertical-scroll-proportion="0.021770682">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="picture.JPG" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/picture.JPG">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redirect/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="14" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/impressum.html" />
+        <option value="$PROJECT_DIR$/redirect/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="874" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zeigermann" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zeigermann" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zeigermann" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zeigermann" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zeigermann" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redirect" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="appearance" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Trainings/typescript-hh-js" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PublishConfig" serverName="floreysoft.com" serverId="8a683f63-0be4-4be9-9971-9700c34b9714" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/bootstrap/css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugSession" factoryName="Remote" singleton="true" temporary="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" value="http://zeigermann.eu/index.html" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$USER_HOME$/Trainings/de_neu" Dictionaries="0" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a67b5bd-c892-4afb-8d73-c1ee357bc3ec" name="Default" comment="" />
+      <created>1353845282667</created>
+      <updated>1353845282667</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Adde jQuery as known technology">
+      <created>1355236024389</created>
+      <updated>1355236024389</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Direct link to oose seminar">
+      <created>1355404309306</created>
+      <updated>1355404309306</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added imprint">
+      <created>1355409670910</created>
+      <updated>1355409670910</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added favicon">
+      <created>1355410546660</created>
+      <updated>1355410546660</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added imprint file">
+      <created>1355410589044</created>
+      <updated>1355410589044</updated>
+    </task>
+    <task id="LOCAL-00006" summary="- Added ad banner for consulting starting from april&#10;- Added examples for SPAs">
+      <created>1358111974255</created>
+      <updated>1358111974255</updated>
+    </task>
+    <task id="LOCAL-00007" summary="- Fluid layout&#10;- More affinity to projects implied">
+      <created>1362949911845</created>
+      <updated>1362949911845</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="874" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39920425" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11549498" sideWeight="0.99358976" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Fluid layout&#10;- More affinity to projects implied" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Adde jQuery as known technology" />
+    <MESSAGE value="Direct link to oose seminar" />
+    <MESSAGE value="Added imprint" />
+    <MESSAGE value="Added favicon" />
+    <MESSAGE value="Added imprint file" />
+    <MESSAGE value="- Added ad banner for consulting starting from april&#10;- Added examples for SPAs" />
+    <MESSAGE value="- Fluid layout&#10;- More affinity to projects implied" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/redirect/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="14" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="15" selection-start="2393" selection-end="2393" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redirect/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="14" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="14" selection-start="1781" selection-end="1781" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redirect/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="14" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="14" selection-start="1781" selection-end="1781" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redirect/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="14" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="14" selection-start="1781" selection-end="1781" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redirect/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="14" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="0" selection-end="16" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redirect/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="14" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/bootstrap.simplex.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/impressum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="57" selection-start="731" selection-end="731" vertical-scroll-proportion="0.32312927" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="71" selection-start="2624" selection-end="2624" vertical-scroll-proportion="0.021770682">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picture.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redirect/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="14" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
